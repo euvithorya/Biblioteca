@@ -1,5 +1,5 @@
 # Meu Projeto
-Este é um projeto que converte unidades.
+Este é um projeto que permite adicionar, listar e buscar livros em um banco de dados.
 
 ## Como usar
 - Clone o repositório
